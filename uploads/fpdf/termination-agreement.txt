@@ -1,0 +1,66 @@
+---
+FieldType: Text
+FieldName: date_original_agreement
+FieldNameAlt: Date of Original Agreement
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: year_original_agreement
+FieldNameAlt: Year of Original Agreement
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: subject_original_agreement
+FieldNameAlt: Subject of Original Agreement
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: date_signing
+FieldNameAlt: Date of Signing
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: party_name_sec
+FieldNameAlt: Second Party Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: party_name_first
+FieldNameAlt: First Party Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: month_signing
+FieldNameAlt: month Of Signing
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: party_name_first1
+FieldNameAlt: First Party Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: date_signing1
+FieldNameAlt: Date of Signing
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: party_name_sec2
+FieldNameAlt: Second Party Name
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: party_name_sec1
+FieldNameAlt: Second Party Name
+FieldFlags: 0
+FieldJustification: Left
