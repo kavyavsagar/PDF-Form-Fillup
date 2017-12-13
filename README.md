@@ -20,3 +20,9 @@ pdftk /uploads/fpdf/termination-agreement.pdf dump_data_fields > /uploads/fpdf/t
 4. Run this script with user data (Submitted form data) and it gets merged
 
 5. After merging the user data with PDF form, the file get downloaded automatically.
+
+Reference : http://www.fpdf.org/en/script/script93.php
+
+OPTIONAL : Can flatten the output file to prevent future modifications. This is possible by passing flatten as a parameter to the fill_form command.
+
+exec("pdftk path/to/form.pdf fill_form $FDFfile output path/to/output.pdf flatten"); 
